@@ -8,9 +8,11 @@ Really is it not fun fun
 
 ### Projects
 
-Here I add a page to describe projects 
+Here I add a page to describe projects
 
 [[Projects|Projects]]
+
+[Projects](https://mabyre.github.io/Obsidian/Projects)
 
 
 
