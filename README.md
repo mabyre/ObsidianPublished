@@ -4,6 +4,13 @@ First clean publication on github with Obsidian and the plugin
 
 [Published Url](https://mabyre.github.io/Obsidian/)
 
-Really is it not fun fun 
+Really is it not fun fun
+
+### Projects
+
+Here I add a page to describe projects 
+
+[[Projects|Projects]]
+
 
 
