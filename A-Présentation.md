@@ -8,7 +8,11 @@ J'ai instancié les premiers fichier dans **OneDrive** pour tenter de les utilis
 Installation du plugin **GitHub Publisher**
 **Attention :** les fichiers publiés sont modifiés et ne fonctionnent plus avec Obsidian alors franchement je trouve ça idiot ...
 
-Pour publier c'est bouton droit sur le fichier -> Upload xxx to DEFAULT
+Pour publier une page modifiée, c'est bouton droit sur le fichier -> Upload xxx to DEFAULT
+
+Rem : DEFAULT même si vous avez pris soin de mettre **main** dans la config de l'extension.
+
+**Attention :** Il faut absolument voir la petite popup noir indiquer qu'il se passe quelque chose sinon c'est que l'extension ne fonctionne plus dans ce cas revenez à la configuration de l'extension et cliquer sur le bouton **Tester la connexion** s'il ne se passe rien c'est sans doute que le Tokens de l'application a expiré.
 ### Aide
 
 Cela ne fonctionne pas car la page correspondante n'a jamais été pushée par Git publisher
