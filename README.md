@@ -9,7 +9,7 @@ First clean publication on github with Obsidian and the plugin
 Really is it not fun ! This is not fun fun, let's say it's not fun at all
 
 [A-Présentation](https://mabyre.github.io/ObsidianPublished/A-Présentation)
-### Projects
+## Projects
 
 Here I add a page to describe projects
 
@@ -24,6 +24,15 @@ by the plugin Git publisher
 Markedown link direct acces to **.md** page
 
 [Projects](https://mabyre.github.io/ObsidianPublished/Projects)
+
+Obsidian link :
+
+obsidian://open?vault=Obsidian&file=Check%20List
+
+## Conclusion
+
+Fortunately it's not every day that we come across something so useless !
+
 
 
 
