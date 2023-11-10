@@ -14,20 +14,20 @@ C:\\Users\\Mabyre\\Documents\\GitHub\\Obsidian
 
 ### Aide
 
-[B-Syntaxe Markdown](B-Syntaxe%20Markdown.md)
+[B-Syntaxe Markdown](./B-Syntaxe%20Markdown.md)
 
 ## Puggins
 
 Listes des plugins installés
 
-[Kanban](Kanban.md)
+[Kanban](./Kanban.md)
 
-[Untitled Kanban](Untitled%20Kanban.md)
+[Untitled Kanban](./Untitled%20Kanban.md)
 
-[Natural Language Dates](Natural%20Language%20Dates.md)
+[Natural Language Dates](./Natural%20Language%20Dates.md)
 
-[Check List](Check%20List.md)
+[Check List](./Check%20List.md)
 
-[Reminder](Reminder.md)
+[Reminder](./Reminder.md)
 
-[Day Planner](Day%20Planner.md)
+[Day Planner](./Day%20Planner.md)
