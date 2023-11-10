@@ -19,7 +19,7 @@ https://mabyre.github.io/ObsidianPublished/Projects.html
 
 by the plugin Git publisher
 
-[Projects](./Projects.md)
+[Projects](Projects.md)
 
 Markedown link direct acces to **.md** page
 
@@ -33,7 +33,7 @@ obsidian://open?vault=Obsidian&file=Check%20List
 
 Fortunately it's not every day that we come across something so useless !
 
-I swear I wrote pages with Obsidian that I never managed to transfer here !
+I swear I wrote pages with Obsidian that I never managed to transfer them here !
 
 
 
