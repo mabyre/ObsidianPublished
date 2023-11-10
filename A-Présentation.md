@@ -14,11 +14,11 @@ C:\\Users\\Mabyre\\Documents\\GitHub\\Obsidian
 
 ### Aide
 
-[B-Markdown syntaxe](B-Markdown%20syntaxe.md)
+[B-Syntaxe Markdown](B-Syntaxe%20Markdown.md)
 
 ## Puggins
 
-Listes des pluggins installés
+Listes des plugins installés
 
 [Kanban](Kanban.md)
 
