@@ -14,7 +14,7 @@ C:\\Users\\Mabyre\\Documents\\GitHub\\Obsidian
 
 ### Aide
 
-[Markdown syntaxe](Markdown%20syntaxe.md)
+[B-Markdown syntaxe](B-Markdown%20syntaxe.md)
 
 ## Puggins
 
