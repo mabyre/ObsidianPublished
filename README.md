@@ -4,6 +4,8 @@ First clean publication on github with Obsidian and the plugin
 
 [Published Url](https://mabyre.github.io/ObsidianPublished/)
 
+[Github Url](https://github.com/mabyre/ObsidianPublished)
+
 Really is it not fun fun
 
 [A-Présentation](https://mabyre.github.io/ObsidianPublished/A-Présentation)
