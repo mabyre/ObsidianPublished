@@ -9,25 +9,25 @@ Installation du plugin **GitHub Publisher**
 **Attention :** les fichiers publiés sont modifiés et ne fonctionnent plus avec Obsidian alors franchement je trouve ça idiot ...
 
 Pour publier c'est bouton droit sur le fichier -> Upload xxx to DEFAULT
-
-C:\\Users\\Mabyre\\Documents\\GitHub\\Obsidian
-
 ### Aide
 
-[B-Syntaxe Markdown](./B-Syntaxe%20Markdown.md)
+Cela ne fonctionne pas car la page correspondante n'a jamais été pushée par Git publisher
 
+[B-Syntaxe Markdown](B-Syntaxe%20Markdown.md)
+
+Je vais conserver ici les notes sur les extensions d'Obsidian
 ## Puggins
 
 Listes des plugins installés
 
-[Kanban](./Kanban.md)
+[Kanban](Kanban.md)
 
-[Untitled Kanban](./Untitled%20Kanban.md)
+[Untitled Kanban](Untitled%20Kanban.md)
 
-[Natural Language Dates](./Natural%20Language%20Dates.md)
+[Natural Language Dates](Natural%20Language%20Dates.md)
 
-[Check List](./Check%20List.md)
+[Check List](Check%20List.md)
 
-[Reminder](./Reminder.md)
+[Reminder](Reminder.md)
 
-[Day Planner](./Day%20Planner.md)
+[Day Planner](Day%20Planner.md)
