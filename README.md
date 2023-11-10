@@ -19,7 +19,7 @@ https://mabyre.github.io/ObsidianPublished/Projects.html
 
 by the plugin Git publisher
 
-[Projects](Projects.md)
+[Projects](./Projects.md)
 
 Markedown link direct acces to **.md** page
 
