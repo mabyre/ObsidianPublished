@@ -33,6 +33,8 @@ obsidian://open?vault=Obsidian&file=Check%20List
 
 Fortunately it's not every day that we come across something so useless !
 
+I swear I wrote pages with Obsidian that I never managed to transfer here !
+
 
 
 
