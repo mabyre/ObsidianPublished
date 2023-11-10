@@ -12,8 +12,8 @@ Pour publier c'est bouton droit sur le fichier -> Upload xxx to DEFAULT
 
 C:\\Users\\Mabyre\\Documents\\GitHub\\Obsidian
 
-
 ### Aide
+
 [B-Markdown syntaxe](B-Markdown%20syntaxe.md)
 
 ## Puggins
