@@ -6,7 +6,7 @@ First clean publication on github with Obsidian and the plugin
 
 [Github Url](https://github.com/mabyre/ObsidianPublished)
 
-Really is it not fun ! This is not fun fun, let's say it's not fun at all
+Really is it not fun ! This is not fun fun, let's say it's not fun at all !
 
 [A-Présentation](https://mabyre.github.io/ObsidianPublished/A-Présentation)
 ## Projects
@@ -34,6 +34,8 @@ obsidian://open?vault=Obsidian&file=Check%20List
 Fortunately it's not every day that we come across something so useless !
 
 I swear I wrote pages with Obsidian that I never managed to transfer them here !
+
+I'm going to keep two Obsidian one with Git Publisher for publishing public things and another with Obsidian git on a private github repo for private things
 
 
 
